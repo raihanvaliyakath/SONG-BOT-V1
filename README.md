@@ -10,8 +10,8 @@ Thanks to  https://github.com/MR-JINN-OF-TG/Song-Downloader-Bot
  
 
 Api Hash get from my.telegram.org
-App id get from my.telegram. org
-Bot Token Your telegram bot token get from [BOT FATHER](t.me/BotFather)
+App id get from my.telegram.org
+Bot Token Your telegram bot token get from @BotFather
 Db url get from mongodb.com
-OWNER ID GET FROM [ROSE](t.me/MissRose_Bot)
+OWNER ID GET FROM RoseBot
 Support Group your support group without @
