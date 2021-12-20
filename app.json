@@ -7,11 +7,11 @@
         "song",
         "youtube",
         "Telegram",
-        "nazriya"
+        "LA LISA"
     ],
-    "website": "https://github.com/MR-JINN-OF-TG",
-    "repository": "https://github.com/MR-JINN-OF-TG/Song-Downloader-Bot",
-    "success_url": "https://t.me/NAZRIYASUPPORT",
+    "website": "https://github.com/raihanvaliyakath",
+    "repository": "https://github.com/raihanvaliyakath/SONG-BOT-V2",
+    "success_url": "https://t.me/M_STER_TECH_GROUP",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
@@ -35,7 +35,7 @@
         }, 
         "SUPPORT": {
             "description": "Your support chat Username Without @",
-            "value": "NAZRIYASUPPORT"
+            "value": "M_STER_TECH"
         }
     },
     "addons": [],
