@@ -11,7 +11,7 @@
     ],
     "website": "https://github.com/raihanvaliyakath",
     "repository": "https://github.com/raihanvaliyakath/SONG-BOT-V2",
-    "success_url": "https://t.me/M_STER_TECH_GROUP",
+    "success_url": "https://t.me/thugbotsgroup",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
@@ -33,9 +33,9 @@
             "description": "Your database url from mongodb.",
             "value": ""
         }, 
-        "SUPPORT": {
+        "SUPPORT GROUP": {
             "description": "Your support chat Username Without @",
-            "value": "M_STER_TECH"
+            "value": "Thugbots"
         }
     },
     "addons": [],
