@@ -4,3 +4,13 @@
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/raihanvaliyakath/SONG-BOT-V2)
 <img src="https://telegra.ph/file/691c2199852b6eecc8e34.jpg">
+
+
+# variables
+APP ID GET FROM my.telegram.org
+API HASH GET FROM my.telegram.org
+DB URL GET FROM www.mongodb.com
+OWNER ID GET FROM @MissRose_bot
+SUPPORT GROUP YOUR SUPPORT GROUP USERNAME WITHOUT @ EXAMPLE= THUGBOTSGROUP
+
+
