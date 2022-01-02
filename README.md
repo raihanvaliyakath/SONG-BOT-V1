@@ -11,6 +11,18 @@
 {API HASH GET FROM www.my.telegram.org.com}
 {DB URL GET FROM www.mongodb.com}
 {OWNER ID GET FROM @MissRose_bot}
-{SUPPORT GROUP YOUR SUPPORT GROUP USERNAME WITHOUT @ EXAMPLE= THUGBOTSGROUP}
+{SUPPORT GROUP YOUR SUPPORT GROUP USERNAME WITHOUT @ EXAMPLE= THUGBOTSGROUP
+
+
+# UPDATES AND SUPPORT
+
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/thugbotsgroup)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/thugbots)
+
+# CREDITS
+
+THANKS TO https://github.com/MR-JINN-OF-TG/Song-Downloader-Bot
+THANKS TO [VAISHNAV](t.me/Vaishnavgr8)
+THANKS TO [ME](t.me/RAIHAN_TG)
 
 
